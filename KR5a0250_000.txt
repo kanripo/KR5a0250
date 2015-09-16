@@ -1,11 +1,11 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 中和集
-#+DATE: 2015-08-28 23:43:19
+#+DATE: 2015-08-28 23:43:27
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
-¶¶¶¶¶¶¶¶¶<md:KR5a0250_HFL_006-028b>¶¶¶¶¶¶¶¶¶<pb:KR5a0250_CK-KZ_01p098b>
-<md:KR5a0250_HFL_000-001a>¶<pb:KR5a0250_CK-KZ_01p001a>
+¶¶¶¶¶¶¶¶¶<md:KR5a0250_HFL_006-028b>¶¶¶¶¶¶¶¶¶<pb:KR5a0250_YP-C_18maoji-08-0098b>
+<md:KR5a0250_HFL_000-001a>¶<pb:KR5a0250_YP-C_18maoji-08-0001a>
 中和集敘¶
 維揚損菴蔡君志頤瑩蟾子李清菴之門人¶也勘破凡塵篤修
 仙道得清菴之殘膏賸馥¶編次成書題曰中和集蓋取師之靜
@@ -16,5 +16,5 @@
 抑以見道之有物混成¶<md:KR5a0250_HFL_000-001b>¶儒之中和育物釋之指心見性此皆同
 工異¶曲咸自太極中來是故老聖常善救人佛不¶輕於汝等周
 公豈欺我哉覽是集者切忌生¶疑當塗南谷杜道堅書于錢塘
-<pb:KR5a0250_CK-KZ_01p001b>
+<pb:KR5a0250_YP-C_18maoji-08-0001b>
 玄元眞館
